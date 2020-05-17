@@ -1,1 +1,1 @@
-# gitsite
+### how to use github domains for your sites.
